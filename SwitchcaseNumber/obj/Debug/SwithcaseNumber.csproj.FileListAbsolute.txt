@@ -1,0 +1,7 @@
+C:\Programming\Sharkbook\SwithcaseNumber\obj\Debug\SwithcaseNumber.csprojAssemblyReference.cache
+C:\Programming\Sharkbook\SwithcaseNumber\obj\Debug\SwithcaseNumber.csproj.CoreCompileInputs.cache
+C:\Programming\Sharkbook\SwithcaseNumber\bin\Debug\SwithcaseNumber.exe.config
+C:\Programming\Sharkbook\SwithcaseNumber\bin\Debug\SwithcaseNumber.exe
+C:\Programming\Sharkbook\SwithcaseNumber\bin\Debug\SwithcaseNumber.pdb
+C:\Programming\Sharkbook\SwithcaseNumber\obj\Debug\SwithcaseNumber.exe
+C:\Programming\Sharkbook\SwithcaseNumber\obj\Debug\SwithcaseNumber.pdb
